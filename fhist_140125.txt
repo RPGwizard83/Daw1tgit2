@@ -1,0 +1,36 @@
+    1  ls
+    2  cd /t
+    3  ls
+    4  clear
+    5  ls
+    6  mkdir Daw1tgit2
+    7  ls
+    8  cd EntornoDesarrollo/
+    9  ls
+   10  mkdir Daw1tgit2
+   11  ls
+   12  cd Daw1tgit2/
+   13  ls
+   14  git int
+   15  git init
+   16  ls
+   17  ls -l
+   18  ls -l
+   19  git status
+   20  git add primeros\ pasos\ git.txt 
+   21  git status
+   22  git status
+   23  ls -l
+   24  git config --list
+   25  ls
+   26  cd /t
+   27  ls
+   28* 
+   29  ls
+   30  cd Daw1tgit2/
+   31  ls
+   32  git config --list
+   33  git config user.email
+   34  git status
+   35  hystory > fhist_140125.txt
+   36  history > fhist_140125.txt

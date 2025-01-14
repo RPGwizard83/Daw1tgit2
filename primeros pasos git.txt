@@ -1,0 +1,18 @@
+para unir git a github
+
+git config --list
+
+y añadir
+
+git config user.email
+
+user.name=RPGwizard83
+user.email=1wizard83@gmail.com
+
+Para iniciar git debemos estar en la ubicacion de la carpeta y ejecutar: 
+
+git init
+
+git add primeros\ pasos\ git.txt
+
+git status

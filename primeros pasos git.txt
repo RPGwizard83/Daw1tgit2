@@ -4,7 +4,10 @@ git config --list
 
 y añadir
 
+git config user.name
 git config user.email
+
+git remote add origin "https://github.com/RPGwizard83/Daw1tgit2.git"
 
 user.name=RPGwizard83
 user.email=1wizard83@gmail.com
@@ -16,3 +19,13 @@ git init
 git add primeros\ pasos\ git.txt
 
 git status
+
+// Añadir el historial
+history > fhist_140125.txt
+git add fhist_140125.txt
+
+// Guardar una version
+git commit -a -m "Mi primera version"
+
+// Subir fichero a github
+git push -u origin main

@@ -1,8 +1,9 @@
 para unir git a github
 
+// Mostar informacion de git
 git config --list
 
-y añadir
+// y añadir
 
 git config user.name
 git config user.email
@@ -27,5 +28,14 @@ git add fhist_140125.txt
 // Guardar una version
 git commit -a -m "Mi primera version"
 
-// Subir fichero a github
+// Subir ficheros a github
 git push -u origin main
+
+// Descargar ficheros al pc local 
+git pull
+
+// Clonar un repositorio
+ git clone https://github.com/RPGwizard83/Daw1tgit2
+
+// Comprobar vercinos de local y nube
+git fetch origin main

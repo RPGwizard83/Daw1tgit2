@@ -39,3 +39,6 @@ git pull
 
 // Comprobar vercinos de local y nube
 git fetch origin main
+
+//
+ git merge

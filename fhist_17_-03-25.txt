@@ -121,3 +121,16 @@
   121  cd Daw1tgit2/
   122  ls
   123  history > fhist_17_-03-25.txt 
+  124  ls
+  125  ls -la
+  126  git status
+  127  git add -h
+  128  git add -A
+  129  git status
+  130  git commit -m "nueva version"
+  131  git status
+  132  history | grep user
+  133  git pull origin main
+  134  git push -u origin main
+  135  history
+  136  history > fhist_17_-03-25.txt
